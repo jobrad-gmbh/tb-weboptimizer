@@ -133,6 +133,7 @@ yarn-error.log
 .npm-debug.log
 .v8flags.*
 .yarnrc
+.npmrc
 
 # Java
 .java/

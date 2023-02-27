@@ -1,5 +1,5 @@
 {
-  "name": "weboptimizer",
+  "name": "@jobrad-gmbh/tb-weboptimizer",
   "version": "2.0.1295",
   "description": "A generic web optimizer, (module) bundler and development environment.",
   "keywords": [
